@@ -1,0 +1,219 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-10 00:20+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../src/callbacks.c:226 ../src/window.c:113
+msgid "Preferences"
+msgstr "Einstellungen"
+
+#: ../src/callbacks.c:256
+msgid "Size"
+msgstr "Größe"
+
+#: ../src/callbacks.c:258
+msgid "Difficulty Level"
+msgstr "Schwierigkeitsgrad"
+
+#: ../src/callbacks.c:260
+msgid "Help Level"
+msgstr "Hilfegrad"
+
+#: ../src/callbacks.c:263
+msgid "Number of rows: "
+msgstr "Anzahl Zeilen: "
+
+#: ../src/callbacks.c:272
+msgid "Number of columns: "
+msgstr "Anzahl Spalten: "
+
+#: ../src/callbacks.c:281
+msgid "Number of ships: "
+msgstr "Anzahl Schiffe: "
+
+#: ../src/callbacks.c:291
+msgid "Difficulty level: "
+msgstr "Schwierigkeitsgrad: "
+
+#: ../src/callbacks.c:297
+msgid ""
+"The lower the difficulty level the higher the probability that only a single "
+"enemy ship is put to each row and each column."
+msgstr ""
+"Je niedriger der Schwierigkeitsgrad desto höher die Wahrscheinlichkeit, dass "
+"nur ein einziges feindliches Schiff in jeder Zeile und jeder Spalte steht."
+
+#: ../src/callbacks.c:302
+msgid "Help level: "
+msgstr "Hilfegrad: "
+
+#: ../src/callbacks.c:308
+msgid ""
+"The higher the help level the more obviously unoccupied positions are marked "
+"as unoccupied automatically."
+msgstr ""
+"Je höher der Hilfegrad desto mehr offensichtlich unbesetzte Positionen "
+"werden automatisch markiert."
+
+#: ../src/callbacks.c:324
+msgid ""
+"To start place your ships on the left panel.\n"
+"\n"
+"Fire with left mouse button on enemy ships on the right panel.\n"
+"The displayed number tells you the total number\n"
+"of ships in this row and this column.\n"
+"\n"
+"You can mark empty positions with right mouse button.\n"
+msgstr ""
+"Zum starten setze deine Schiffe auf der linken Seite.\n"
+"\n"
+"Schieße rechts mit der linken Maustaste auf feindliche Schiffe.\n"
+"Die angezeigte Zahl ist die Anzahl der Schiffe in dieser\n"
+"Zeile und dieser Spalte.\n"
+"\n"
+"Leere Positionen können mit der rechten Maustaste markiert werden.\n"
+
+#: ../src/callbacks.c:344
+msgid "Thomas Finteis (thomas.finteis@gmx.de)"
+msgstr "Thomas Finteis (thomas.finteis@gmx.de)"
+
+#: ../src/callbacks.c:346
+msgid ""
+"Battle Ship.\n"
+"Suggestions for improvements, bug reports and translations are welcome."
+msgstr ""
+"Schiffe versenken\n"
+"Vorschläge für Verbesserungen, Fehlerberichte und Übersetzungen werden "
+"dankbar angenommen."
+
+#: ../src/callbacks.c:352
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Library General Public "
+"License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License along with "
+"this program; if not, see http://www.gnu.org/licenses."
+msgstr ""
+"Dieses Program ist freie Software. Sie können das Programm weiter verteilen "
+"oder verändern unter Beachtung der GNU General Public License , so wie sie "
+"von der Free Software Foundation festgelegt wurde, entweder in Version 2 der "
+"Lizenz oder (nach Ihrem Gutdünken) in jeder späteren Version.\n"
+"\n"
+"Dieses Program wurde in der Hoffnung veröffentlicht, dass Sie es als "
+"nützlich empfinden, jedoch OHNE JEGLICHE GARANTIE AUF FUNKTIONSFÄHIGKEIT UND "
+"OHNE RECHTSANSPRUCH BEI FEHLERHAFTEM VERHALTEN DER SOFTWARE. Lesen Sie die "
+"GNU General Public License für weiterführende Informationen.\n"
+"\n"
+"Im Paket dieses Programs sollten Sie ebenfalls eine Kopie der GNU General "
+"Public License erhalten haben. Wenn nicht, öffnen Sie http://www.gnu.org/"
+"licenses."
+
+#: ../src/misc.c:209 ../src/window.c:192
+msgid "The Enemy's Ships"
+msgstr "Feindliche Schiffe"
+
+#: ../src/misc.c:210 ../src/misc.c:650
+#, c-format
+msgid "The Enemy's Ships %d/%d"
+msgstr "Feindliche Schiffe %d/%d"
+
+#: ../src/misc.c:214 ../src/window.c:154
+msgid "My Ships"
+msgstr "Meine Schiffe"
+
+#: ../src/misc.c:215 ../src/misc.c:328
+#, c-format
+msgid "My Ships %d/%d"
+msgstr "Meine Schiffe %d/%d"
+
+#: ../src/misc.c:222
+msgid "Place ships."
+msgstr "Schiffe setzen."
+
+#: ../src/misc.c:316 ../src/misc.c:638
+msgid "Last turn: (+99, +99)."
+msgstr "Letzter Zug: (+99, +99)."
+
+#: ../src/misc.c:317 ../src/misc.c:639
+msgid "Last turn: (%d, %d)."
+msgstr "Letzter Zug: (%d, %d)."
+
+#: ../src/misc.c:327
+msgid "My Ships +99/+99"
+msgstr "Meine Schiffe +99/+99"
+
+#: ../src/misc.c:332 ../src/misc.c:654
+msgid "Ship hit: (+99, +99)."
+msgstr "Schiff getroffen: (+99, +99)."
+
+#: ../src/misc.c:333 ../src/misc.c:655
+msgid "Ship hit: (%d, %d)."
+msgstr "Schiff getroffen: (%d, %d)."
+
+#: ../src/misc.c:340
+msgid ""
+"\n"
+"You lost.\n"
+msgstr ""
+"\n"
+"Du hast verloren.\n"
+
+#: ../src/misc.c:622
+msgid "Invalid: (+99, +99)."
+msgstr "Ungültig: (+99, +99)."
+
+#: ../src/misc.c:623
+msgid "Invalid: (%d, %d)."
+msgstr "Ungültig: (%d, %d)."
+
+#: ../src/misc.c:649
+msgid "The Enemy's Ships +99/+99"
+msgstr "Feindliche Schiffe +99/+99"
+
+#: ../src/misc.c:758
+msgid ""
+"\n"
+"You won.\n"
+msgstr ""
+"\n"
+"Du hast gewonnen.\n"
+
+#: ../src/window.c:74
+msgid "Battle Ship"
+msgstr "Schiffe versenken"
+
+#: ../src/window.c:87
+msgid "Game"
+msgstr "Spiel"
+
+#: ../src/window.c:125
+msgid "Help"
+msgstr "Hilfe"
+
+#: ../src/window.c:184
+msgid "Set ships."
+msgstr "Schiffe setzen."
+
+#: ../src/window.c:237
+msgid "End"
+msgstr "Ende"

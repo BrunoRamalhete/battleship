@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Battleship
+Name[de]=Schiffe versenken
+Comment=Instead of firing blindly you get hints about the ships' positions.
+Comment[de]=Anstatt blind zu feuern erhalten Sie Hinweise auf die Positionen der Schiffe.
+Exec=battleship
+TryExec=battleship
+Icon=battleship
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Game;LogicGame;

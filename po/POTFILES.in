@@ -1,0 +1,5 @@
+# List of source files containing translatable strings.
+
+src/misc.c
+src/callbacks.c
+src/window.c

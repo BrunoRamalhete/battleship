@@ -1,0 +1,3 @@
+	../src/misc.c \
+	../src/callbacks.c \
+	../src/window.c
